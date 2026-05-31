@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendalidate",
+        "uuid": 5386465,
+        "checksum": "7rqvdk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
